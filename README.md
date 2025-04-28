@@ -24,6 +24,7 @@
 #### numpy
 #### matplotlib
 #### seaborn
+#### plotly
 
 ## 📋Conclusion
 ### This project provides valuable insights into customer purchasing behavior and product trends in an e-commerce setting. It can help businesses:
